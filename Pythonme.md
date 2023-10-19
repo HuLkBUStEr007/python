@@ -1,4 +1,4 @@
-# 3-Week Python Learning Plan
+# Python Learning Plan
 
 ## Overview
 
